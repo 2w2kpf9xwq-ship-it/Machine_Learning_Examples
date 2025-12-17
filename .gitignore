@@ -15,5 +15,6 @@ venv/
 Thumbs.db
 
 # Anaconda / Jupyter internal
+.virtual_documents/
 anaconda_projects/
 *.db
