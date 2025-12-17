@@ -13,3 +13,7 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Anaconda / Jupyter internal
+anaconda_projects/
+*.db
